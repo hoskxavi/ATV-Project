@@ -3,7 +3,7 @@ ATV Project
 Repository containing any needed information regarding the Fall 2023 ATV project for the Robotics and Communications Systems Engineering Technology program at Idaho State University.
 
 Application Information:
-  The included Android APK file titled "ATV Control" is a basic control application for the ATV drive system. 
+  The included Android APK file titled "ATV_Control.APK" is a basic control application for the ATV drive system. 
 
   Initial Setup:
     To setup the control app, the APK file must be downloaded on any Android device(NOTE: The app is NOT compatible with IOS devices.)
